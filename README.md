@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erlambang52
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning and Computational Fluid Dynamics
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me ...
